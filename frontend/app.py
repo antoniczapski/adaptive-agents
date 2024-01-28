@@ -136,7 +136,7 @@ def get_actions():
     file_path = os.path.join(app.static_folder, 'action_desc.txt')
     with open(file_path, 'r') as file:
         action_desc = file.read()
-    return dd(list,{'API Call':[(action_desc, 'http://127.0.0.1:5001/echo')]})
+    return dd(list,{'API Call':[(action_desc, 'http://backend:5001/echo')]})
 
 if __name__ == '__main__':
     # frontend

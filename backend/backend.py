@@ -6,6 +6,12 @@ from database_handling import process_query
 app = Flask(__name__)
 CORS(app)
 
+# Logging
+# @app.before_request
+# def log_request_info():
+#     app.logger.debug('Headers: %s', request.headers)
+#     app.logger.debug('Body: %s', request.get_data())
+
 @app.route('/echo', methods=['POST'])
 def echo():
     data = request.get_json()
@@ -19,4 +25,5 @@ def echo():
     return jsonify(message=process_query(prompt))
 
 if __name__ == '__main__':
+    # backend
     app.run(host='0.0.0.0', port=5001, debug=True)
