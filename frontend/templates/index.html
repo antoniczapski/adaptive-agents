@@ -9,97 +9,35 @@
 
 <div class="top-part"></div>
 <div class="main-container">
-    <div class="agent-definition-box"></div>
-    <div style="background-color: rgb(76,77,89);"></div>
+    <div class="agent-definition-box">
+        <div class="main-image-box">
+            <div></div>
+            <img class="main-agent-image" src="{{ url_for('static', filename='images/bot.png') }}" alt="Agent image">
+            <div></div>
+        </div>
+        <div class="normal-text">Name</div>
+        <div class="agent-name-box">
+            <input type="text" id="agent-name-input" class="agent-name-input" placeholder="Name your agent" value="MetaGPT">
+        </div>
+        <div class="normal-text">Description</div>
+        <div class="agent-description-box">
+            <input type="text" class="agent-description-input" id="agent-description-input" placeholder="Add a short description about what this GPT does" value="Solves any task with GPTs. Give your problem and I will describe the way to solve it with AI.">
+        </div>
+        <div class="normal-text">Instructions</div>
+        <div class="agent-instructions-box">
+            <textarea id="agent-instructions-textarea" class="agent-instructions-textarea" placeholder="What does this GPT do? How does it behave? What should it avoid doing?"></textarea>
+        </div>
+    </div>
+    <div style="background-color: rgb(76,77,89)"></div>
     <div class="chat-box">
         <div id="chat" class="conversation-box"></div>
         <div class="user-input">
             <textarea id="prompt-textarea" class="user-message" placeholder="Message GPT..."></textarea>
-            <button id="send-button" class="send-button" onclick="sendMessage()" style="background-image: url({{ url_for('static', filename='images/arrow.png') }});"></button>
+            <button id="send-button" class="send-button" onclick="sendMessage()" style="background-image: url({{ url_for('static', filename='images/arrow.png') }})"></button>
         </div>
     </div>
 </div>
 
-<script>
-    let conversationHistory = []; 
-
-    async function sendMessage() {
-        var prompt = document.getElementById('prompt-textarea').value;
-        document.getElementById('prompt-textarea').value = '';
-        displayMessage('User', prompt);
-
-        conversationHistory.push({ sender: 'User', message: prompt });
-
-        try {
-            const response = await generateChatbotResponse(conversationHistory);
-            displayMessage('Bot', response)
-            conversationHistory.push({ sender: 'Bot', message: response });
-        } catch (error) {
-            console.error('Error:', error);
-        }
-    }
-
-    function displayMessage(sender, message) {
-        var chatDiv = document.getElementById('chat');
-        var messageDiv = document.createElement('div');
-        var imageDiv = document.createElement('img');
-        var textDiv = document.createElement('div');
-        
-        var senderTextNode = document.createElement('div');
-        var newlineTextNode = document.createElement('br');
-        var messageTextNode = document.createElement('div');
-
-        senderTextNode.className = 'chat-sender';
-        messageTextNode.className = sender === 'User' ? 'chat-message-text-user' : 'chat-message-text-bot';
-
-        senderTextNode.textContent = sender;
-        messageTextNode.textContent = message;
-
-        textDiv.appendChild(senderTextNode);
-        textDiv.appendChild(messageTextNode);
-
-        textDiv.className = 'chat-text';
-
-
-        imageDiv.src = sender === 'User' ? "{{ url_for('static', filename='images/user.png') }}" : "{{ url_for('static', filename='images/bot.png') }}";
-        imageDiv.className = 'chat-image';
-
-        messageDiv.className = 'chat-message';
-        messageDiv.appendChild(imageDiv);
-        messageDiv.appendChild(textDiv);
-
-        chatDiv.appendChild(messageDiv);
-
-        messageDiv.scrollIntoView({ behavior: 'smooth' });
-    }
-
-    async function generateChatbotResponse(conversationHistory) {
-        const url = 'http://127.0.0.1:5001/echo';
-        const data = { conversationHistory: conversationHistory };
-
-        const response = await fetch(url, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(data)
-        });
-
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
-
-        const responseData = await response.json();
-        return responseData.message;
-    }
-
-    var textarea = document.getElementById('prompt-textarea');
-    textarea.addEventListener('keydown', function(event) {
-        if (event.key === 'Enter') {
-            event.preventDefault();
-            sendMessage();
-        }
-    });
-</script>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
 
 {% endblock %}

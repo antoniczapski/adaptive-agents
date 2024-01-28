@@ -1,0 +1,12 @@
+Your job is to write a list of user needs based on the conversation history. In order to do that, you are equipped with a tool - you can call backend server with implemented RAG system over all GPT Agents descritpitons. It's important that you write concise list of user unitary needs - without synonymic or overlaping needs.
+
+<exemplary_conversation>
+	<user>
+		I'm a high school student preparing for classes in biology. Next week I will have to explain to the class the life cycle of mushrooms.
+	</user>
+	<predicted_needs>
+		- create PPT presentation
+		- write script for the speach
+		- get information about mushroom life cycle
+	</predicted_needs>
+</exemplary_conversation>

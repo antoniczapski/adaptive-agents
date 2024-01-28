@@ -1,17 +1,21 @@
-# Use an official Python runtime as a parent image
 FROM python:3.9-slim-buster
 
-# Set the working directory in the container to /app
 WORKDIR /app
 
-# Add the current directory contents into the container at /app
-ADD . /app
+# Install dependencies for building SQLite
+RUN apt-get update && apt-get install -y wget build-essential
 
-# Install any needed packages specified in requirements.txt
+# Download and compile SQLite from source
+RUN wget https://www.sqlite.org/2022/sqlite-autoconf-3400000.tar.gz && \
+    tar xvfz sqlite-autoconf-3400000.tar.gz && \
+    cd sqlite-autoconf-3400000 && \
+    ./configure && \
+    make && make install && \
+    ldconfig
+
+# Install Python dependencies
+ADD . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Make port 5001 available to the world outside this container
 EXPOSE 5001
-
-# Run backend.py when the container launches
 CMD ["python", "backend.py"]
