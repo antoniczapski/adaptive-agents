@@ -1,0 +1,21 @@
+{
+    "responseType": "GPTAgentsList",
+    "agents": [
+      {
+        "name": "SlideCraft GPT",
+        "description": "Specialized in designing engaging and informative presentations, SlideCraft GPT utilizes AI to generate visually appealing slide layouts and graphics, perfectly suited for educational and professional settings.",
+        "url": "https://slidecraftgpt.example.com"
+      },
+      {
+        "name": "ScriptMaster GPT",
+        "description": "Expert in crafting compelling speech scripts, ScriptMaster GPT integrates advanced linguistic models to create clear, persuasive, and audience-appropriate speeches for various topics and occasions.",
+        "url": "https://scriptmastergpt.example.com"
+      },
+      {
+        "name": "BioVisual GPT",
+        "description": "Focused on biomedical visualization, BioVisual GPT uses AI to create detailed and accurate visual representations of biological concepts, aiding in education and research with high-quality diagrams and animations.",
+        "url": "https://biovisualgpt.example.com"
+      }
+    ]
+  }
+  

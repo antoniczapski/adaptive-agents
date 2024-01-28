@@ -1,0 +1,8 @@
+{
+    "requestType": "findGPTAgents",
+    "userNeeds": [
+      "creating presentations",
+      "writing speech scripts",
+      "creating biomedical visualizations"
+    ]
+  }
