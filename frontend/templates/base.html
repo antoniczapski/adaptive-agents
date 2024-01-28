@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
     {% block head %}{% endblock %}
 </head>
-<body>
+<body data-user-img="{{ url_for('static', filename='images/user.png') }}" data-bot-img="{{ url_for('static', filename='images/bot.png') }}">
     {% block body %}{% endblock %}
 </body>
 </html>

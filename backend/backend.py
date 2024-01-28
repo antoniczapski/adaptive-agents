@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
+from database_handling import process_query
+
 app = Flask(__name__)
 CORS(app)
 
@@ -9,17 +11,12 @@ def echo():
     data = request.get_json()
     if not data:
         return jsonify(error='No JSON object provided'), 400
-    if 'conversationHistory' not in data:
-        return jsonify(error='No conversationHistory field in JSON object'), 400
-    conversationHistory = data['conversationHistory']
-    if not conversationHistory:
-        return jsonify(error='Empty conversation history'), 400
-    # Get the last message from the user
-    lastUserMessage = next((message for message in reversed(conversationHistory) if message['sender'] == 'User'), None)
-    if not lastUserMessage:
-        return jsonify(error='No user message in conversation history'), 400
-    message = lastUserMessage['message']
-    return jsonify(message=message.upper())
+    if 'prompt' not in data:
+        return jsonify(error='No prompt field in JSON object'), 400
+    prompt = data['prompt']
+    if not prompt:
+        return jsonify(error='Empty prompt'), 400
+    return jsonify(message=process_query(prompt))
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5001)
+    app.run(host='0.0.0.0', port=5001, debug=True)

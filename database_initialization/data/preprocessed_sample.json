@@ -1,0 +1,1002 @@
+[
+    {
+        "title": "Cloudflare Radar",
+        "url": "https://api.radar.cloudflare.com/.well-known/logo.svg",
+        "description": "Get real-time insights into Internet traffic patterns and threats as seen by Cloudflare.",
+        "usage_scenarion": [
+            "Monitoring real-time internet traffic patterns",
+            "Detecting and analyzing potential threats",
+            "Providing insights into online security trends"
+        ]
+    },
+    {
+        "title": "AI Quest",
+        "url": "https://aiquest.waxime.dev/logo.png",
+        "description": "An interactive text adventure. Your choices shape the AI-crafted narrative. Each playthrough is a unique story and game.",
+        "usage_scenarion": [
+            "Creating interactive text adventure games",
+            "Crafting AI-driven narratives based on user choices",
+            "Generating unique and personalized storylines for each playthrough"
+        ]
+    },
+    {
+        "title": "Mifuzi Domain AI",
+        "url": "https://mifuzi.com/logo.png",
+        "description": "Discover domain names based on your creative ideas and check their availability status.",
+        "usage_scenarion": [
+            "Generating domain name ideas",
+            "Checking domain name availability",
+            "Facilitating the search for creative and available domain names"
+        ]
+    },
+    {
+        "title": "Konkani Translator",
+        "url": "https://konkanitranslator.customplugin.ai/.well-known/logo.png",
+        "description": "Unlock the Beauty of Goa with the Romi Konkani Translator.",
+        "usage_scenarion": [
+            "Translating text from English to Konkani",
+            "Assisting in communication with Konkani-speaking individuals",
+            "Preserving and promoting the Konkani language and culture"
+        ]
+    },
+    {
+        "title": "Invoice",
+        "url": "https://cplst01.blob.core.windows.net/static/c-invoice-logo.png",
+        "description": "I'll create professional good-looking invoices. Download as PDF or Word. Built for small businesses.",
+        "usage_scenarion": [
+            "Generating professional invoices for small businesses",
+            "Downloading invoices in PDF or Word format",
+            "Easily customizing and personalizing invoices"
+        ]
+    },
+    {
+        "title": "Dafny Checker",
+        "url": "https://dafny-chatgpt.livecode.ch/logo.png",
+        "description": "Check that Dafny code passes the verifier, without executing the code.",
+        "usage_scenarion": [
+            "Verification of Dafny code",
+            "Ensuring code correctness without execution",
+            "Confirming adherence to verification specifications"
+        ]
+    },
+    {
+        "title": "ChatWithPDF",
+        "url": "https://chatwithpdf.sdan.io/logo.png",
+        "description": "Chat with everything from entire PDF books to Google Drive documents just by providing a link.",
+        "usage_scenarion": [
+            "Analyzing and discussing content from PDF books",
+            "Interacting with content from Google Drive documents",
+            "Converting text-based content into conversational format"
+        ]
+    },
+    {
+        "title": "CCS - Spext",
+        "url": "https://plugin.consciouscreators.spext.com/logo.ico",
+        "description": "Chat with the Conscious Creators Show podcast library on Spext.",
+        "usage_scenarion": [
+            "Accessing the Conscious Creators Show podcast library",
+            "Interacting with the podcast using chat functionality",
+            "Browsing and exploring content within the Spext platform"
+        ]
+    },
+    {
+        "title": "Tabelog",
+        "url": "https://tblg.k-img.com/images/smartphone/icon/app_icon_tabelog_flat_3x.png",
+        "description": "Allows you to find restaurants in Japan that have availability for reservations.",
+        "usage_scenarion": [
+            "Finding available restaurant reservations in Japan",
+            "Browsing restaurant options based on availability",
+            "Streamlining the reservation process for dining in Japan"
+        ]
+    },
+    {
+        "title": "AISEO Repurposer",
+        "url": "https://youtube-content-repurposer-qiabyuewca-uc.a.run.app/logo.png",
+        "description": "Convert any article or YouTube video into blogs, tweets, emails, scripts, press releases, landing pages &amp; more.",
+        "usage_scenarion": [
+            "Converting articles and videos into blog posts",
+            "Repurposing content for tweets, emails, and scripts",
+            "Generating press releases and landing pages from existing content"
+        ]
+    },
+    {
+        "title": "AILC History",
+        "url": "https://s3.amazonaws.com/ailcstatic.warmersun.com/ailchistory.jpg",
+        "description": "Draw maps of kingdoms, empires and battles. Search for images to illustrate what you are learning. Show timelines.\n",
+        "usage_scenarion": [
+            "Creating historical maps for kingdoms, empires, and battles",
+            "Searching for relevant images to illustrate historical information",
+            "Displaying historical timelines"
+        ]
+    },
+    {
+        "title": "Chat with Bible",
+        "url": "https://bible.religions.chat/logo.png",
+        "description": "Intuitively explore scriptures. Find relevant verses, understand parables, and gain insights.",
+        "usage_scenarion": [
+            "Navigating scriptures and finding relevant verses",
+            "Understanding parables and their significance",
+            "Gaining insights from religious texts"
+        ]
+    },
+    {
+        "title": "Image Converter",
+        "url": "https://plugin-image-converter.vercel.app/logo.png",
+        "description": "Convert an image to any other image format.",
+        "usage_scenarion": [
+            "Converting images to different formats",
+            "Supporting various image file types",
+            "Assisting with image format conversion"
+        ]
+    },
+    {
+        "title": "Job Interview",
+        "url": "https://cplst01.blob.core.windows.net/static/c-jobinterview-logo.jpg",
+        "description": "I'll prepare you for a job interview by asking questions and providing feedback.",
+        "usage_scenarion": [
+            "Simulating job interview scenarios",
+            "Asking interview questions",
+            "Providing feedback on interview performance"
+        ]
+    },
+    {
+        "title": "AI Theme Finder",
+        "url": "https://api.aithemefinder.online/envato.png",
+        "description": "I'll find and compare top WordPress themes for your next blog or website. Just provide your preferences.",
+        "usage_scenarion": [
+            "Evaluating and comparing WordPress themes",
+            "Offering recommendations based on user preferences",
+            "Streamlining the process of selecting a theme for a blog or website"
+        ]
+    },
+    {
+        "title": "20 Minuten (CH) News",
+        "url": "https://plugin.20min.ch/logo.png",
+        "description": "Get the latest News from 20 Minuten about Switzerland and the world.",
+        "usage_scenarion": [
+            "Accessing the latest news updates",
+            "Retrieving news specific to Switzerland",
+            "Providing global news coverage"
+        ]
+    },
+    {
+        "title": "ChatStackSearch",
+        "url": "https://chat-stack-search.inu-ai.com/favicon.svg",
+        "description": "Use the Stack Exchange API to search sites such as Stack Overflow and return questions, answers, and other information.",
+        "usage_scenarion": [
+            "Retrieving questions from Stack Exchange sites",
+            "Accessing answers from Stack Exchange sites",
+            "Gathering other relevant information from Stack Exchange sites"
+        ]
+    },
+    {
+        "title": "Quizizz",
+        "url": "https://quizizz-chatgpt.ingrouper.com/logo.png",
+        "description": "Create quizzes, forms, slides, surveys, polls, worksheets &amp; flashcards. Fun themes, memes &amp; modes.",
+        "usage_scenarion": [
+            "Generating quizzes, forms, surveys, and worksheets",
+            "Providing options for fun themes and memes",
+            "Offering different modes for interaction"
+        ]
+    },
+    {
+        "title": "PayPay gourmet",
+        "url": "https://s.yimg.jp/images/paypaygourmet/common/images/logo/ppg_pluginlogo.png",
+        "description": "You can find restaurants in Japan from PayPay gourmet in Japanese. Output may differ from PayPay gourmet.",
+        "usage_scenarion": [
+            "Finding restaurants in Japan",
+            "Accessing restaurant information in Japanese",
+            "Retrieving restaurant details from PayPay Gourmet"
+        ]
+    },
+    {
+        "title": "QR Codes",
+        "url": "https://chatgpt-qrcode-46d7d4ebefc8.herokuapp.com/logo.png",
+        "description": "Create QR codes.",
+        "usage_scenarion": [
+            "Generating QR codes for various purposes",
+            "Customizing QR code designs and content",
+            "Integrating QR codes into marketing materials and digital platforms"
+        ]
+    },
+    {
+        "title": "Message in a Bottle",
+        "url": "https://i.imgur.com/GxLMZfK.png",
+        "description": "Throw a message into the digital ocean, or grab one floating by. You are not alone.",
+        "usage_scenarion": [
+            "Sharing messages in a digital space",
+            "Discovering and engaging with public messages",
+            "Connecting with a global community through shared messages"
+        ]
+    },
+    {
+        "title": "Hedera Info",
+        "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+        "description": "Get info for Hedera accounts (HBAR &amp; tokens) and the network (TPS, NFTs minted)",
+        "usage_scenarion": [
+            "Retrieving information for Hedera accounts (HBAR & tokens)",
+            "Providing data on the network's transactions per second (TPS)",
+            "Displaying details on NFTs minted on the network"
+        ]
+    },
+    {
+        "title": "Close CRM",
+        "url": "https://app.close.com/chatgpt-plugin-logo.png",
+        "description": "Access your Close CRM data. Understand your leads, get deeper insights, and make them actionable.",
+        "usage_scenarion": [
+            "Analyzing Close CRM data for lead understanding",
+            "Gaining deeper insights into customer behavior",
+            "Converting insights into actionable strategies"
+        ]
+    },
+    {
+        "title": "io.livecode.ch",
+        "url": "https://io-chatgpt.livecode.ch/logo.png",
+        "description": "Evaluate snippets of code using io.livecode.ch.",
+        "usage_scenarion": [
+            "Testing and evaluating code snippets",
+            "Debugging and troubleshooting programming code",
+            "Analyzing program performance"
+        ]
+    },
+    {
+        "title": "Moodo",
+        "url": "https://chatgpt.moodo.co/logo.png",
+        "description": "Moodo\u00ae is one of a kind aroma diffuser, that can mix up to 4 scents. Moodo version 3+ allows air purifying too.",
+        "usage_scenarion": [
+            "Creating custom scent mixtures",
+            "Air purification with scent diffusion",
+            "Enhancing the atmosphere with mixed scents"
+        ]
+    },
+    {
+        "title": "CVEs",
+        "url": "https://chatgpt-cve.email.ai.moda/bimi/logo.svg",
+        "description": "Look up Common Vulnerabilities and Exposures (CVEs).",
+        "usage_scenarion": [
+            "Searching for information on Common Vulnerabilities and Exposures (CVEs).",
+            "Providing details on specific CVEs.",
+            "Offering insights into vulnerabilities and exposures."
+        ]
+    },
+    {
+        "title": "Smarter Contracts",
+        "url": "https://smartercontracts.ai/logo.png",
+        "description": "Analyze smart contracts and tokens on Ethereum, Polygon, and other EVM-compatible networks.",
+        "usage_scenarion": [
+            "Analyzing smart contracts on Ethereum, Polygon, and other EVM-compatible networks",
+            "Examining tokens on Ethereum, Polygon, and other EVM-compatible networks",
+            "Providing insights into smart contract and token functionality"
+        ]
+    },
+    {
+        "title": "The Knot",
+        "url": "https://pro-tkww-chatgpt-plugin-useast1.svc.nuptic.com/.well-known/logo.png",
+        "description": "All-In-One wedding planning with tools, guides, &amp; inspo to make your wedding journey effortless.",
+        "usage_scenarion": [
+            "Providing wedding planning tools",
+            "Supplying planning guides",
+            "Offering wedding inspiration"
+        ]
+    },
+    {
+        "title": "A&amp;B Web Search!",
+        "url": "https://cplst01.blob.core.windows.net/static/ab-web-search-logo.png",
+        "description": "Browse the web using Google search. Discover the latest information online by entering keywords or phrases.",
+        "usage_scenarion": [
+            "Performing web searches via Google",
+            "Finding the latest online information using specific keywords or phrases",
+            "Accessing a wide range of content on the web through search functionality"
+        ]
+    },
+    {
+        "title": "School Supply List",
+        "url": "https://akidzon.s3.amazonaws.com/static_food/img/logo_sticky_school.svg",
+        "description": "Your ultimate destination for school supply lists across the United States for students from k to 12th grade.",
+        "usage_scenarion": [
+            "Providing school supply lists for students from kindergarten to 12th grade",
+            "Offering comprehensive and customizable lists",
+            "Simplifying back-to-school shopping"
+        ]
+    },
+    {
+        "title": "Slide Maker",
+        "url": "https://plugin.slides.aidocmaker.com/logo.png",
+        "description": "Create beautiful PowerPoint presentations. Customize and export to PPTX, and more.",
+        "usage_scenarion": [
+            "Generating aesthetically pleasing PowerPoint presentations",
+            "Customizing presentations to specific preferences",
+            "Exporting presentations to PPTX or other formats"
+        ]
+    },
+    {
+        "title": "BUZZ.NEW",
+        "url": "https://docs.buzz.new/logo.svg",
+        "description": "BUZZ.NEW: A smart business creator for business management. Create, manage inventory, and handle orders efficiently.",
+        "usage_scenarion": [
+            "Managing inventory",
+            "Handling orders efficiently",
+            "Streamlining business management"
+        ]
+    },
+    {
+        "title": "PuginAI",
+        "url": "https://joint-server.onrender.com/openapi/logo",
+        "description": "Recommend extensions based on prompt from user.",
+        "usage_scenarion": [
+            "Suggesting browser extensions based on user input",
+            "Providing recommendations for improving browsing experience",
+            "Offering tailored suggestions for enhancing specific functions within web browsers"
+        ]
+    },
+    {
+        "title": "highPerplexity",
+        "url": "https://storage.googleapis.com/highperplexity-desktop-video/adaptive-icon-highPerplexity.png",
+        "description": "Integrates with highPerplexity and executes any prompts you need.",
+        "usage_scenarion": [
+            "Integrating AI models for prompt execution",
+            "Supporting advanced natural language processing tasks",
+            "Automating text generation and analysis"
+        ]
+    },
+    {
+        "title": "eSIM Travel Asst",
+        "url": "https://rtgai.redteago.com/logo.png",
+        "description": "Find eSIM data plans easily! Enter location and eSIM keywords to get apt package suggestions. Ideal for travelers.",
+        "usage_scenarion": [
+            "Locating eSIM data plans",
+            "Providing tailored package suggestions",
+            "Catering to the needs of travelers"
+        ]
+    },
+    {
+        "title": "WORDLY - WORD Game",
+        "url": "https://chat-wordle-ai-7vdz5.ondigitalocean.app/static/wlogo.png",
+        "description": "Play Guess the WORD AI game. You need to guess a 5 letter word! Start by asking to play WORDLY game.",
+        "usage_scenarion": [
+            "Playing the Guess the Word AI game",
+            "Participating in the WORDLY game",
+            "Engaging in a 5-letter word guessing activity"
+        ]
+    },
+    {
+        "title": "BrowserPilot",
+        "url": "https://openapi-af.op-mobile.opera.com/openapi/browserplugin/.well-known/logo.png",
+        "description": "Deliver real-time search results, fetch and analyze info in multiple URLs.",
+        "usage_scenarion": [
+            "Providing real-time search results",
+            "Extracting and analyzing information from multiple URLs",
+            "Aggregating data from various sources for analysis"
+        ]
+    },
+    {
+        "title": "Clay",
+        "url": "https://assets.clay.earth/chatgpt-plugin-logo.png",
+        "description": "Ask questions and search across your network and contacts \u2014 Linkedin, Facebook, email, and iMessage.",
+        "usage_scenarion": [
+            "Gathering information across multiple platforms",
+            "Searching and querying contacts and networks",
+            "Streamlining communication and information retrieval"
+        ]
+    },
+    {
+        "title": "Weather",
+        "url": "https://weather--vicentescode.repl.co/logo.png",
+        "description": "Provides weather forecast based on location. Includes temperature, precipitation, cloud cover, wind and much more.",
+        "usage_scenarion": [
+            "Delivering location-based weather forecasts",
+            "Providing detailed information on temperature, precipitation, cloud cover, and wind",
+            "Offering comprehensive weather updates"
+        ]
+    },
+    {
+        "title": "ScrapingBee",
+        "url": "https://plugin.scrapingbee.com/logo.png",
+        "description": "Search Google for finding general information and urls. Or scrape websites for the most real-time specific information.",
+        "usage_scenarion": [
+            "Finding general information and URLs through web search",
+            "Scrape websites for real-time specific information",
+            "Automating data extraction from websites"
+        ]
+    },
+    {
+        "title": "Emotimg",
+        "url": "https://emotimg-chat-plugin.web.app/logo.png",
+        "description": "The images(maid character) attached make the conversation more enjoyable.",
+        "usage_scenarion": [
+            "Enhancing conversations with attached images",
+            "Adding visual elements to improve user experience",
+            "Increasing engagement with visual content"
+        ]
+    },
+    {
+        "title": "AppCreator",
+        "url": "https://pic.iidingyun.com/8697107/images/plugin.png",
+        "description": "A cloud-native platform designed for rapid and automated web application development and testing.",
+        "usage_scenarion": [
+            "Rapid web application development",
+            "Automated web application testing",
+            "Cloud-native platform for web development"
+        ]
+    },
+    {
+        "title": "Argil AI",
+        "url": "https://storage.googleapis.com/argil_data_europe_west4/static/logosquare.png",
+        "description": "Generate images without learning how to prompt.",
+        "usage_scenarion": [
+            "Producing images from minimal input or without specific prompts",
+            "Automated image generation without extensive training",
+            "Simplifying the process of creating visuals from basic descriptions or concepts"
+        ]
+    },
+    {
+        "title": "G2.com",
+        "url": "https://www.g2.com/assets/chat_gpt_plugin/plugin-logo-1fc390241b7ea80f436570c759884746d08074b6f3281789a2c543bcd6e75ef3.png",
+        "description": "Find the best software and service solutions to your business needs.",
+        "usage_scenarion": [
+            "Identifying suitable software solutions for specific business requirements",
+            "Recommending service providers based on business needs",
+            "Streamlining the process of finding optimal business solutions"
+        ]
+    },
+    {
+        "title": "Appy Pie App Builder",
+        "url": "https://www.appypie.com/.well-known/logo.png",
+        "description": "AI-powered Text-to-App Generator turns your app idea into Android and iOS apps- just provide text input.",
+        "usage_scenarion": [
+            "Converting text input into Android and iOS apps",
+            "Simplifying app development process",
+            "Automating app creation based on user input"
+        ]
+    },
+    {
+        "title": "Feng Shui Divination",
+        "url": "https://www.china-fengshui.com/logo.png",
+        "description": "Using traditional Chinese theories such as the I Ching (Book of Changes) to predict the past, present, and future.",
+        "usage_scenarion": [
+            "Predicting future events based on the I Ching",
+            "Interpreting current situations using traditional Chinese theories",
+            "Analyzing past occurrences with reference to the I Ching"
+        ]
+    },
+    {
+        "title": "Tabor - Sr. Living",
+        "url": "https://tabor.ai/wp-content/uploads/2023/09/logo.png",
+        "description": "Trusted source for senior living market research, data, and analytics. 35K communities, 9K operators in the USA.",
+        "usage_scenarion": [
+            "Conducting market research on senior living communities",
+            "Providing data and analytics on the senior living market",
+            "Analyzing trends and insights in the senior living industry"
+        ]
+    },
+    {
+        "title": "ExamenChat",
+        "url": "https://plugin.examenchat.com/.well-known/logo.png",
+        "description": "Master the Dutch 'Centraal Eindexamen': access a vast question library, practice, get hints, and graded feedback.",
+        "usage_scenarion": [
+            "Accessing a vast question library",
+            "Practicing for the Dutch 'Centraal Eindexamen'",
+            "Receiving hints and graded feedback"
+        ]
+    },
+    {
+        "title": "ne.tools",
+        "url": "https://ne.tools/images/pluginshq-logo.png",
+        "description": "Network diagnostic tool for DNS record lookup (A, AA, MX, NS and more) and WHOIS queries for domains and IP addresses.",
+        "usage_scenarion": [
+            "Performing DNS record lookup (A, AA, MX, NS, etc.) for domains",
+            "Conducting WHOIS queries for domains and IP addresses",
+            "Providing network diagnostic tools for troubleshooting issues with domains and IP addresses"
+        ]
+    },
+    {
+        "title": "Creative Mind",
+        "url": "https://github.com/Pranav-Bha-tt/GPT-4-Creative-Mind/raw/d7bbf81ff2acad4a8a2f8325a122a06b3b09a65d/GPT-4_Plugin_Logo.png",
+        "description": "Unleash your imagination with Creative Mind, transforming text prompts into stunning visual art.",
+        "usage_scenarion": [
+            "Generating visual art from text prompts",
+            "Inspiring creativity and imagination",
+            "Providing a tool for artistic expression"
+        ]
+    },
+    {
+        "title": "Smart Connections",
+        "url": "https://sync.smartconnections.app/logo.png",
+        "description": "Chat with your notes integration for Obsidian.",
+        "usage_scenarion": [
+            "Seamlessly incorporating notes into chat conversations",
+            "Accessing and referencing Obsidian notes during chat sessions",
+            "Enhancing productivity and information retention through integrated note-taking"
+        ]
+    },
+    {
+        "title": "AI Data Analyst",
+        "url": "https://api.getaidataanalyst.com/logo.png",
+        "description": "Dive into your data like never before. No code, no complex queries; just plain English.",
+        "usage_scenarion": [
+            "Data exploration through natural language queries",
+            "Simplifying data analysis processes",
+            "Facilitating non-technical users' access to data"
+        ]
+    },
+    {
+        "title": "Repo Radar",
+        "url": "https://reporadar.dev/images/logo.png",
+        "description": "Your one-stop shop for up to date Github repo information. Find repos by topic, language, or name.",
+        "usage_scenarion": [
+            "Searching for GitHub repos by topic",
+            "Finding GitHub repos by programming language",
+            "Looking up GitHub repos by name"
+        ]
+    },
+    {
+        "title": "Jini",
+        "url": "https://api.pannous.com/logo.png",
+        "description": "Get factual, knowledge-base and real-time information. \n Search news, images, videos, music, apps, pages and facts.",
+        "usage_scenarion": [
+            "Accessing factual and real-time information ",
+            "Searching for news, images, videos, music, and facts ",
+            "Finding and retrieving relevant online content"
+        ]
+    },
+    {
+        "title": "Meal Planner",
+        "url": "https://meal-planner.plugincrafter.dev/logo",
+        "description": "Craft diets to fit your tastes. Explore diverse food selections, cook with flair, and enhance your gastronomic journey!",
+        "usage_scenarion": [
+            "Tailoring diets to individual preferences",
+            "Offering diverse food selections",
+            "Providing cooking tips and techniques"
+        ]
+    },
+    {
+        "title": "Avalara",
+        "url": "https://plugins.midgard.avalara.io/favicon.png",
+        "description": "Calculate sales tax or lookup tax rates for any address in the U.S.",
+        "usage_scenarion": [
+            "Calculating sales tax for purchases",
+            "Retrieving tax rates for specific addresses",
+            "Assisting with tax-related calculations for business transactions"
+        ]
+    },
+    {
+        "title": "Upskillr",
+        "url": "https://cbplugin.upskillr.ai/.well-known/logo.svg",
+        "description": "Custom curriculum, lesson plans, and upskilling support on any topic by Upskillr. Powered by Shorthills Tech.",
+        "usage_scenarion": [
+            "Creating custom curriculum",
+            "Developing personalized lesson plans",
+            "Providing upskilling support on various topics"
+        ]
+    },
+    {
+        "title": "FreshTech",
+        "url": "https://6yq93jqsc3.execute-api.us-west-1.amazonaws.com/.well-known/logo.png",
+        "description": "Fetches and presents the latest tech documentation content.",
+        "usage_scenarion": [
+            "Retrieving the latest tech documentation content",
+            "Organizing and presenting technical information",
+            "Keeping users updated on the latest technological documentation"
+        ]
+    },
+    {
+        "title": "AMBOSS",
+        "url": "https://chatgpt-plugin-server.us.production.amboss.com/logo.png",
+        "description": "Find reliable medical information provided by AMBOSS, a trusted medical source for thousands of physicians and students.",
+        "usage_scenarion": [
+            "Accessing trusted medical information",
+            "Researching medical topics for physicians and students",
+            "Providing reliable medical content"
+        ]
+    },
+    {
+        "title": "Million Dollar Ads",
+        "url": "https://milliondollarads.promptate.com/logo.png",
+        "description": "They stacked a million dollars to catch your eye! Browse the gallery of marketing masterpieces.",
+        "usage_scenarion": [
+            "Showcasing marketing masterpieces",
+            "Highlighting successful marketing campaigns",
+            "Providing inspiration for marketing strategies"
+        ]
+    },
+    {
+        "title": "Defillama",
+        "url": "https://i.imgur.com/bSJRFvE.png",
+        "description": "Retrieve data on DeFi protocols and blockchains.",
+        "usage_scenarion": [
+            "Gathering data on DeFi protocols",
+            "Retrieving information on various blockchains",
+            "Analyzing DeFi and blockchain trends"
+        ]
+    },
+    {
+        "title": "SteamReviewsWatcher",
+        "url": "https://reviewextracting.hprnv.pro/logo.png",
+        "description": "Get steam reviews for the requested game and process them as you want, make summary's, extract pros and cons, etc.",
+        "usage_scenarion": [
+            "Generating game review summaries",
+            "Extracting pros and cons from game reviews",
+            "Analyzing and processing Steam reviews for games"
+        ]
+    },
+    {
+        "title": "Open Trivia",
+        "url": "https://raw.githubusercontent.com/drengskapur/open-trivia-database-chat-plugin/main/icon.png",
+        "description": "Get trivia questions from various categories and difficulty levels.",
+        "usage_scenarion": [
+            "Accessing trivia questions from diverse categories",
+            "Choosing different difficulty levels",
+            "Customizing trivia experiences"
+        ]
+    },
+    {
+        "title": "Numerology",
+        "url": "https://numerology.divinationzone.com/divination-d-logo.png",
+        "description": "Unleash the power of numbers. In seconds, find guidance and understand your true spiritual self.",
+        "usage_scenarion": [
+            "Providing guidance based on numerology",
+            "Helping users understand their spiritual self through numerology",
+            "Offering quick insights based on numerological calculations"
+        ]
+    },
+    {
+        "title": "TokenInsights",
+        "url": "https://img.feednews.com/assets/v2/f7eabc30a8ac4f6d82d9bf7e6d32c342",
+        "description": "Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.",
+        "usage_scenarion": [
+            "Providing real-time crypto prices for BTC, ETH, and BNB",
+            "Offering the latest insights and news related to cryptocurrencies",
+            "Sharing information about airdrop opportunities"
+        ]
+    },
+    {
+        "title": "Tasty Recipes",
+        "url": "https://api.tasty.co/.well-known/logo.png",
+        "description": "Discover recipe ideas, meal plans and cooking tips from Tasty's millions of users!",
+        "usage_scenarion": [
+            "Finding recipe ideas",
+            "Accessing meal plans",
+            "Exploring cooking tips"
+        ]
+    },
+    {
+        "title": "FilmFindr",
+        "url": "https://filmfindr.gngn.at/logo.svg",
+        "description": "Tell me your favorite movies and I'll recommend your next cinematic gem!",
+        "usage_scenarion": [
+            "Recommending movies based on user preferences",
+            "Providing personalized film recommendations",
+            "Assisting with discovering new movies based on individual tastes"
+        ]
+    },
+    {
+        "title": "MixerBox Scholar",
+        "url": "https://static.mixerbox.com/chatai/chatgpt-plugin/scholar_logo.png",
+        "description": "Free and reliable academic search engine! Find research papers and get answers in an instant!",
+        "usage_scenarion": [
+            "Searching for academic research papers",
+            "Providing instant answers to queries",
+            "Accessing reliable academic sources"
+        ]
+    },
+    {
+        "title": "Chat With Your Data",
+        "url": "https://api.chatwithyourdata.io/logo.png",
+        "description": "Conversational analysis over your databases and spreadsheets.",
+        "usage_scenarion": [
+            "Analyzing conversations and interactions within databases",
+            "Extracting insights from spreadsheet data",
+            "Identifying patterns and trends in communication"
+        ]
+    },
+    {
+        "title": "Quantum Dolphin",
+        "url": "https://plugin.quantumdolphin.com/logo.png",
+        "description": "Access comprehensive, up-to-date insights into the latest research and developments in quantum computing papers.",
+        "usage_scenarion": [
+            "Providing access to latest quantum computing research",
+            "Offering comprehensive insights into developments in quantum computing",
+            "Curating up-to-date quantum computing papers and publications"
+        ]
+    },
+    {
+        "title": "Alchemy",
+        "url": "https://chat-web3-plugin.alchemy.com/logo.png",
+        "description": "Request real-time blockchain data for chains like Ethereum, Polygon, Arbitrum and Optimism through natural language.",
+        "usage_scenarion": [
+            "Accessing real-time blockchain data for Ethereum, Polygon, Arbitrum, and Optimism",
+            "Retrieving blockchain data through natural language queries",
+            "Providing real-time updates and information on blockchain transactions and activities"
+        ]
+    },
+    {
+        "title": "Ai Drive",
+        "url": "https://ai-drive-plugin-qvg2narjsa-uc.a.run.app/logo.png",
+        "description": "Chat with with all your pdfs files and more. Keep everything organized in your personal Ai Drive.",
+        "usage_scenarion": [
+            "Chatbot interface for accessing and managing PDF files",
+            "Organization and storage of documents in a personal AI Drive",
+            "Integration with additional file types for ease of access"
+        ]
+    },
+    {
+        "title": "Placid.app",
+        "url": "https://placid.app/logo-openai.jpg",
+        "description": "A design assistant that creates marketing visuals from your templates.",
+        "usage_scenarion": [
+            "Generating marketing visuals from templates",
+            "Customizing design elements to create unique visuals",
+            "Streamlining the design creation process"
+        ]
+    },
+    {
+        "title": "CodeCastWandbox",
+        "url": "https://codecast-wandbox.inu-ai.com/favicon.svg",
+        "description": "Instantly compile your code online with Wandbox. Improve your coding learning experience.",
+        "usage_scenarion": [
+            "Compiling code online instantly",
+            "Facilitating coding learning experiences",
+            "Providing an interactive coding environment"
+        ]
+    },
+    {
+        "title": "SEO Assistant",
+        "url": "https://webfx.ai/.well-known/logo.png",
+        "description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
+        "usage_scenarion": [
+            "Generating search engine keyword information",
+            "Assisting in content creation",
+            "Enhancing search engine optimization strategies"
+        ]
+    },
+    {
+        "title": "Decision Journal",
+        "url": "https://decisionjournalapp.com/.well-known/logo.png",
+        "description": "Become a better decision maker by keeping track of your decisions and reviewing how they turn out.",
+        "usage_scenarion": [
+            "Tracking and analyzing decision-making processes",
+            "Facilitating decision review and analysis",
+            "Improving decision-making skills through feedback and reflection"
+        ]
+    },
+    {
+        "title": "AnaBot",
+        "url": "https://firebasestorage.googleapis.com/v0/b/security-web-app-e4217.appspot.com/o/23e7934f-d5c2-4077-8e37-7d7f9a9f0de0%2Ficoncircular%20logo%20for%20robot%20face%20emogi%20that%20is%20about%20f.jpg?alt=media&token=496dba6e-5262-4ae0-a604-bf8d16dea618",
+        "description": "AnaBot is a conversational guide for well-being industry insights and trends.",
+        "usage_scenarion": [
+            "Providing insights on well-being industry trends",
+            "Offering conversational guidance on industry insights",
+            "Facilitating discussions on well-being industry topics"
+        ]
+    },
+    {
+        "title": "TalkFPL",
+        "url": "https://talkfpl.com/assets/football-icon-47e39991defc5f4e66807b288c8dedfde526927a788b9622edf8090a683aaeaa.png",
+        "description": "Talk with AI to help you manage your FPL team. Compare players, transfer options and more.",
+        "usage_scenarion": [
+            "Comparing players for fantasy Premier League teams",
+            "Analyzing transfer options",
+            "Providing insights for managing FPL teams"
+        ]
+    },
+    {
+        "title": "CoinMarketCap",
+        "url": "https://s3.coinmarketcap.com/static-gravity/image/2d30e95978a74a6a969341470b4f1327.jpeg",
+        "description": "Get the latest crypto data from CoinMarketCap.",
+        "usage_scenarion": [
+            "Accessing real-time cryptocurrency data",
+            "Providing up-to-date cryptocurrency market information",
+            "Analyzing historical and current cryptocurrency trends"
+        ]
+    },
+    {
+        "title": "Text Count",
+        "url": "https://text-count.modelxy.com/text-count-logo.png",
+        "description": "Count the number of words and characters in a text.",
+        "usage_scenarion": [
+            "Word and character counting in a given text",
+            "Supporting text analytics and statistics",
+            "Assisting in document analysis and summarization"
+        ]
+    },
+    {
+        "title": "Apify",
+        "url": "https://apify.com/.well-known/apify-logo.png",
+        "description": "Scrape Google Search results, crawl websites and query web pages found, and browse individual web pages.",
+        "usage_scenarion": [
+            "Scraping Google Search results",
+            "Crawling websites and querying web pages",
+            "Browsing individual web pages"
+        ]
+    },
+    {
+        "title": "WebRewind",
+        "url": "https://webrewind.app/logo.png",
+        "description": "Get the picture of a website at a specific date.",
+        "usage_scenarion": [
+            "Retrieving historical website snapshots",
+            "Documenting website changes over time",
+            "Archiving web content for reference"
+        ]
+    },
+    {
+        "title": "Whois Domain Checker",
+        "url": "https://smoothplugins.com/img/plugin_logos2/whois3.png",
+        "description": "A Whois app that takes a list of space-separated domain names, performs the Whois for each domain.",
+        "usage_scenarion": [
+            "Performing Whois lookup for multiple domain names",
+            "Automating the process of retrieving Whois information",
+            "Streamlining domain information retrieval"
+        ]
+    },
+    {
+        "title": "ixigo",
+        "url": "https://firebasestorage.googleapis.com/v0/b/security-web-app-e4217.appspot.com/o/b51adce9-d64a-4302-a40b-0393e1b19e1a%2Ficonixigoll.jpg?alt=media&token=8b33daaa-b013-41fd-b869-311e6ed3cd8c",
+        "description": "PLAN your trips! Search for best flights &amp; get recommendations where you can travel on your budget.",
+        "usage_scenarion": [
+            "Finding best flight options",
+            "Providing travel recommendations within budget",
+            "Planning trip itineraries"
+        ]
+    },
+    {
+        "title": "OpenTable",
+        "url": "https://cdn.otstatic.com/third-party/images/opentable-logo-512.png",
+        "description": "Provides restaurant recommendations, with a direct link to book.",
+        "usage_scenarion": [
+            "Suggesting restaurant recommendations",
+            "Including direct booking links",
+            "Facilitating restaurant reservation process"
+        ]
+    },
+    {
+        "title": "Strology",
+        "url": "https://pretzelbox.cc/strology/logo.png",
+        "description": "Get daily astrological predictions for your sun sign.",
+        "usage_scenarion": [
+            "Providing daily astrological predictions",
+            "Tailoring predictions based on sun signs",
+            "Offering insights and guidance based on astrological interpretations"
+        ]
+    },
+    {
+        "title": "Find a Tour",
+        "url": "https://findatour.replit.app/logo.jpg",
+        "description": "Find a tour, activity, or experience to do in locations across the world.",
+        "usage_scenarion": [
+            "Discovering and booking tours and activities worldwide",
+            "Exploring unique and local experiences",
+            "Finding and accessing travel experiences in various locations"
+        ]
+    },
+    {
+        "title": "Calculator",
+        "url": "https://smoothplugins.com/img/plugin_logos2/calc1.png",
+        "description": "A calculator app that executes a given formula and returns a result. This app can execute basic and advanced operations.",
+        "usage_scenarion": [
+            "Performing basic mathematical operations",
+            "Executing advanced mathematical functions",
+            "Handling a variety of mathematical formulas"
+        ]
+    },
+    {
+        "title": "Flowise Support Help",
+        "url": "https://firebasestorage.googleapis.com/v0/b/security-web-app-e4217.appspot.com/o/31b66fe5-dbda-447d-825c-89c1f59393b6%2FiconInstagram__Logo.jpg?alt=media&token=a959fa02-e844-4d72-be89-a13ddff950b7",
+        "description": "A Conversational Agent to ask questions about how to install and use Flowise.",
+        "usage_scenarion": [
+            "Providing installation guidance for Flowise",
+            "Offering usage instructions for Flowise",
+            "Answering questions about Flowise functionality"
+        ]
+    },
+    {
+        "title": "FakeAGI",
+        "url": "https://fake-agi.inu-ai.com/favicon.svg",
+        "description": "Automate your goals: Our AI agents solve tasks and log the results in a Google spreadsheet.",
+        "usage_scenarion": [
+            "Task automation and management",
+            "Logging and tracking results",
+            "Integration with Google spreadsheet for data organization"
+        ]
+    },
+    {
+        "title": "Checkmarx CheckAI",
+        "url": "https://chatgpt-plugin-resources.s3.eu-west-1.amazonaws.com/CX_Logo.jpg",
+        "description": "Security Code Scanning for generated source code. Ensuring a secure development environment.",
+        "usage_scenarion": [
+            "Identifying security vulnerabilities in generated source code",
+            "Ensuring a secure development environment through code scanning",
+            "Enhancing code security in development processes"
+        ]
+    },
+    {
+        "title": "Plus Recipe &amp; Food",
+        "url": "https://d9hhrg4mnvzow.cloudfront.net/chat.aplusrecipe.me/1b6yov4-screenshot-2023-08-10-161812_102501j000000000000028.png",
+        "description": "Explore recipes with your ingredients! This plugin offers cooking guides and similar dish ideas for culinary adventures!",
+        "usage_scenarion": [
+            "Generating recipes based on available ingredients",
+            "Providing cooking guides",
+            "Suggesting similar dish ideas"
+        ]
+    },
+    {
+        "title": "Cribbage Scorer",
+        "url": "https://cribbage.azurewebsites.net/static/crib_scorer_logo.png",
+        "description": "Tool for scoring your cards in the game of cribbage.",
+        "usage_scenarion": [
+            "Scoring cards in the game of cribbage",
+            "Tracking game progress",
+            "Providing an automated scoring system"
+        ]
+    },
+    {
+        "title": "World Records",
+        "url": "https://worldrecords.capabase.com/logo.png",
+        "description": "Step into a world that celebrates the highest levels of human accomplishment. Witness the records!",
+        "usage_scenarion": [
+            "Showcasing and highlighting human achievements",
+            "Documenting record-breaking accomplishments",
+            "Featuring exceptional feats and milestones"
+        ]
+    },
+    {
+        "title": "Prayer Times",
+        "url": "https://prayer-times-plugin.vercel.app/logo.png",
+        "description": "Get Prayer Times for all over world in seconds.",
+        "usage_scenarion": [
+            "Accessing prayer times for locations worldwide",
+            "Providing accurate and up-to-date prayer schedules",
+            "Offering convenient and quick access to prayer times"
+        ]
+    },
+    {
+        "title": "Passive DNS Pivots",
+        "url": "https://daisy.zetalytics.com/square-zeta-logo.jpg",
+        "description": "ZETAlytics Global pDNS with 800 Billion records. Unearth nefarious domains within minutes of creation.",
+        "usage_scenarion": [
+            "Identifying potentially malicious domains in real time",
+            "Monitoring newly created domains for suspicious activity",
+            "Analyzing and classifying vast amounts of domain name data"
+        ]
+    },
+    {
+        "title": "Algorithma",
+        "url": "https://algorithma.replit.app/.well-known/logo.png",
+        "description": "Shape your virtual life with in this immersive life simulator game to begin Type /start to begin.",
+        "usage_scenarion": [
+            "Virtual life simulation",
+            "Interactive storytelling",
+            "Character customization"
+        ]
+    },
+    {
+        "title": "Newsimoji",
+        "url": "https://pub-95417c842f71459c955a0e8ae5199062.r2.dev/emoji-game.png",
+        "description": "A fun game where you guess a news story based on solely on emojis.",
+        "usage_scenarion": [
+            "Engaging users in a news-based guessing game using emojis",
+            "Promoting interaction and engagement through visual storytelling",
+            "Reinforcing awareness of current events through a playful approach"
+        ]
+    },
+    {
+        "title": "VELTRA",
+        "url": "https://ai-search-plugin.veltra.com/veltra-logo.png",
+        "description": "A tool designed to provide personalized tour activity suggestions.",
+        "usage_scenarion": [
+            "Generating personalized tour activity recommendations",
+            "Tailoring sightseeing suggestions to individual preferences",
+            "Providing customized travel itineraries"
+        ]
+    },
+    {
+        "title": "CarYardBard",
+        "url": "https://app.caryardbard.com/assets/images/cyb-square.png",
+        "description": "AI-Powered Car Sales Ad Generator for Australian Car Dealers.",
+        "usage_scenarion": [
+            "Generating car sales ads based on inventory",
+            "Creating targeted and customized ad content",
+            "Automating the ad creation process"
+        ]
+    }
+]
