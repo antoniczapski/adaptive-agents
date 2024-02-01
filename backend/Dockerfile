@@ -17,5 +17,5 @@ RUN wget https://www.sqlite.org/2022/sqlite-autoconf-3400000.tar.gz && \
 ADD . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
-EXPOSE 5001
+EXPOSE 5000
 CMD ["python", "backend.py"]

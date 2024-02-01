@@ -13,7 +13,7 @@ def log_request_info():
     app.logger.debug('Body: %s', request.get_data())
 
 @app.route('/echo', methods=['POST'])
-def echo(debug=False):
+def echo(debug=True):
     data = request.get_json()
     if debug:
         if not data:
@@ -31,4 +31,6 @@ def echo(debug=False):
 
 if __name__ == '__main__':
     # backend
-    app.run(host='0.0.0.0', port=5001, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
+
+    # curl -X POST -H "Content-Type: application/json" -d "{\"prompt\":\"create graphics for my web page\"}" http://localhost:5000/echo

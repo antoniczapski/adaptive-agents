@@ -8,7 +8,7 @@ import chromadb.utils.embedding_functions as embedding_functions
 
 def get_embedding(usage_scenarios):
     if not usage_scenarios:
-        return np.zeros(1536).tolist(), 0
+        return [], 0
     embedding = openai_client.embeddings.create(
             model="text-embedding-3-small",
             input=usage_scenarios,
@@ -23,7 +23,7 @@ if __name__=='__main__':
     )
 
     # loading data
-    with open('database_initialization/data_extended/preprocessed_small.json','r',encoding='utf-8') as f:
+    with open('database_initialization/data_extended/preprocessed.json','r',encoding='utf-8') as f:
         data = json.load(f)
 
     # database initialization
@@ -44,7 +44,8 @@ if __name__=='__main__':
             total_token_count_embedding += embedding_tokens
         except:
             continue
-        
+        if len(embedding) == 0:
+            continue
         collection.add(
             embeddings=[embedding],
             documents=['\n'.join(sample['usage_scenarion'])],
@@ -56,4 +57,4 @@ if __name__=='__main__':
             ids=[sample['url']]
         )
 
-    print(f"Embedding token count: {total_token_count_embedding} ~ {total_token_count_embedding / 10000000}$")
+    print(f"Embedding token count: {total_token_count_embedding} ~ {0.00013 * total_token_count_embedding / 1000}$")
